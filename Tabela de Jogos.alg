@@ -6,10 +6,14 @@ var
    rodadas: vetor [1..10] de caractere
    
 inicio
+     kasdkajshdkh
+     kahsdbkasd
+     askdhkjahsd
       Para i de 1 ate 4 faca
-         Escreva("Qual o nome do ",i,"º time: ")
+         Escreva("Qual o nome do ",i,"ï¿½ time: ")
          Leia(times[i])
       FimPara
+      asldjhkbasd
       LimpaTela
       Para i de 1 ate 4 faca
            para j <- i+1 ate 4 faca
