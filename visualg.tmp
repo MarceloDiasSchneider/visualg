@@ -1,0 +1,12 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 14/01/2022
+// Seção de Declarações 
+var
+ n : inteiro
+inicio
+      escreva ("Oi")
+      leia (n)
+      escreve n
+fimalgoritmo
